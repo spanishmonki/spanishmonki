@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spanishmonki
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Microsoft MakeCode Arcade
+- 📫 How to reach me? ispeakspanishuwu@gmail.com
